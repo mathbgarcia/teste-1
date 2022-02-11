@@ -1,1 +1,9 @@
-# teste-1
+
+{
+    "id": 10124,
+    "title": "TESTE DE API",
+    "description": "teste api",
+    "pageCount": 1,
+    "excerpt": "string",
+    "publishDate": "2021-08-12T04:32:15.168Z"
+  }
